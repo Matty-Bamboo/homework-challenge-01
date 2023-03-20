@@ -5,10 +5,10 @@ Refactoring codebase that follows accessiblity standards to optimize site for se
 Added semantic html coding for search engine optimization, I put in a few notes on the index file for clarity of the sections and reorgainzed the css to better reflect flow of the webpage 
 
 ## Table of Contents
->Mock-Up
->Useage
->Credits
->License
+>* Mock-Up
+>* Useage
+>* Credits
+>* License
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
@@ -22,6 +22,7 @@ N/A
 
 ## Credits
 >Berkeley-Web-Dev-Spring-Summer-2023 homework-challenge-01 [UCB-Coding-Bootcamp Github](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-03-2023-U-LOLC).
->How to comment in HTML [FreeCodeCamp](https://www.freecodecamp.org/news/html-basics-for-beginners/)
+
+>How to comment in HTML [FreeCodeCamp](https://www.freecodecamp.org/news/html-basics-for-beginners/).
 ## License
 homework-challenge-01 is licensed under the MIT license
